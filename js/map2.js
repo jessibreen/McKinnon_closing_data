@@ -2,7 +2,7 @@
 var baselayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
 	subdomains: 'abcd',
-	maxZoom: 19
+	maxZoom: 20
 });
 
 //Add empty variable for data 
@@ -13,8 +13,9 @@ var sitePoints = null;
 //the last color without a type label is the color that anything with a type that isn't listed will be colored 
 function setColor(type) {
 	return type == 'Private not-for-profit, 4-year or above' ? "#a6cee3" : 
-	       type == 'Public, 4-year or above' ? "#1f78b4" :
-	       type == 'Private for-profit, 4-year or above' ? "#b2df8a" :
+	       type == 'Public, 4-year or above' ? "#33a02c" :
+           type == 'Private for-profit, 4-year or above' ? "#1f78b4" :
+           type == 'Public, 2-year' ? '#b2df8a' :
 	       type == 'Source' ? "#33a02c" : 
 	                     "white";
 }
@@ -40,7 +41,7 @@ function highlightFeature(e) {
 	
 	
 	activePoint.setStyle({
-		fillColor: '#f6630f',
+		fillColor: '#ffffff',
 	});
 }
 
@@ -57,9 +58,10 @@ $.getJSON("data/data.geojson",function(data){
 	 onEachFeature: function(feature, layer) {            
         var props = layer.feature.properties;
         
-        layer.bindPopup("<h2>"+props.Institution+"</h2>"+
+        layer.bindPopup("<b>"+props.Institution+"</b>"+
 		        "<dl>"+
-			props.City+", "+props.State+        
+            props.City+", "+props.State+
+            "<br><a href="+props.Documentation+">Read More</a>"+      
 		        "</dl>");
 	
 	    layer.on({
@@ -80,8 +82,8 @@ legend.onAdd = function (map) {
     
     //type is the content of the Sector field, labels is what you want the label on the legend to actually say
     //there need to be the same number of types as labels and listed in the same order
-    type = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above'];
-    labels = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above'];
+    type = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
+    labels = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
     
     for (var i = 0; i < type.length; i++) {
         div.innerHTML +=
@@ -92,7 +94,7 @@ legend.onAdd = function (map) {
     return div;
 };
 
-var map = L.map('map', {maxZoom: 17}).fitBounds(sitePoints.getBounds());
+var map = L.map('map', {maxZoom: 20}).fitBounds(sitePoints.getBounds());
 	baselayer.addTo(map);
 	sitePoints.addTo(map);
 	legend.addTo(map);
