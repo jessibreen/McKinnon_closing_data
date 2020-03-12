@@ -1,19 +1,4 @@
-/* // create map with Mapbox Streets tilelayer
-L.mapbox.accessToken = 'pk.eyJ1IjoidG9kZGdsZWFua3kiLCJhIjoiY2ltcW16OXdzMDBqb3Vwa2toNm9pb200NiJ9.hwTEGkXsOWDrBgFO8jzQfQ';
-// Replace 'mapbox.streets' with your map id.
-var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
-    attribution: '© <a href="https://www.mapbox.com/map-feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}); */
-
 //Create the baselayer and add it to the map
-/* var baselayer = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
-attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-subdomains: 'abcd',
-minZoom: 0,
-maxZoom: 20,
-ext: 'png'
-}); */
-
 var baselayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
 	subdomains: 'abcd',
@@ -75,14 +60,6 @@ $.getJSON("data/data.geojson",function(data){
         layer.bindPopup("<h2>"+props.Institution+"</h2>"+
 		        "<dl>"+
 			props.City+", "+props.State+        
-		
-			        // "<dt>"+"Contact: "+"</dt><dd>"+props.contact+"<br>"+props.email+"<br>"+props.phone+"</dd>"+
-			        // "<dt>"+"Hours of Operation: "+"</dt><dd>"+props.hours+"</dd>"+
-			        // "<dt>"+"Storage Capacity: "+"</dt><dd>"+props.storage_cap+"</dd>"+
-			        // "<dt>"+"Type of Program: "+"</dt><dd>"+props.program_type+"</dd>"+
-			        // "<dt>"+"Food Education Offered: "+"</dt><dd>"+props.food_ed+"</dd>"+
-			        // "<dt>"+"Regular Gleaning Donation: "+"</dt><dd>"+props.reg_donation+"</dd>"+
-			        // "<dt>"+"Produce Restrictions: "+"</dt><dd>"+props.produce_restrictions + "</dd>"+
 		        "</dl>");
 	
 	    layer.on({
@@ -91,27 +68,6 @@ $.getJSON("data/data.geojson",function(data){
 	    
     }
 	
-		// onEachFeature: function(feature, layer) {
-		//     var props = layer.feature.properties;
-		//     layer.on({
-		//         click: function populate(e) {
-		//         document.getElementById('poptext').innerHTML = "<h2>"+props.organization+"</h2>"+
-		//         "<dl>"+
-		// 	        "<dt>"+"Address: "+"</dt><dd>"+props.address+"<br>"+ props.website+"</dd>"+
-		// 	        "<dt>"+"Contact: "+"</dt><dd>"+props.contact+"<br>"+props.email+"<br>"+props.phone+"</dd>"+
-		// 	        "<dt>"+"Hours of Operation: "+"</dt><dd>"+props.hours+"</dd>"+
-		// 	        "<dt>"+"Storage Capacity: "+"</dt><dd>"+props.storage_cap+"</dd>"+
-		// 	        "<dt>"+"Type of Program: "+"</dt><dd>"+props.program_type+"</dd>"+
-		// 	        "<dt>"+"Food Education Offered: "+"</dt><dd>"+props.food_ed+"</dd>"+
-		// 	        "<dt>"+"Regular Gleaning Donation: "+"</dt><dd>"+props.reg_donation+"</dd>"+
-		// 	        "<dt>"+"Produce Restrictions: "+"</dt><dd>"+props.produce_restrictions + "</dd>"+
-		//         "</dl>";
-		//         highlightFeature(e)
-		        	
-		//         },
-		        
-		//     });
-	 //   }
 });
 
 var legend = L.control({position: 'bottomright'});
