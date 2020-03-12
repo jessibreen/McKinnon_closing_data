@@ -6,13 +6,13 @@ var baselayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/
 });
 
 //Create empty variable for data that we'll pull from the geojsons
-var sitePoints = null;
-var campusPoints = null;
+var sitePoints = null,
+	campusPoints = null;
 
 // Create additional map panes to fix potential layering issues
-map.createPane("pane200").style.zIndex = 200; // tile pane
-map.createPane("pane450").style.zIndex = 450; // between overlays and shadows
-map.createPane("pane600").style.zIndex = 600; // marker pane
+//map.createPane("pane200").style.zIndex = 200; // tile pane
+//map.createPane("pane450").style.zIndex = 450; // between overlays and shadows
+//map.createPane("pane600").style.zIndex = 600; // marker pane
 
 //Sets the color for each Sector Type
 //more Sector Types can be added by following the pattern below
@@ -55,17 +55,17 @@ function highlightFeature(e) {
 	});
 }
 
-
-//uses jQueryget to get geoJSON data and style it
-//this is also where we're adding the popup and determining what data goes in it
-//the naming convention is "props.NAMEOFCOLUMN"
-$.getJSON("data/data.geojson",function(data){
-	// Create data layer
-	sitePoints = L.geoJson(data, {
+/* $.getJSON("data/campuses.geojson", function(data) {
+	campusPoints = L.geoJson(data, {
 		pointToLayer: function (feature, latlng) {
-        return L.circleMarker (latlng, style(feature));
+        return L.circleMarker (latlng, {
+			radius: 3,
+			color: '#ffffff',
+			weight: .5, 
+			fillColor: '#999999',
+			fillOpacity: 1
+			});
 		},
-		
 		
 	 onEachFeature: function(feature, layer) {            
         var props = layer.feature.properties;
@@ -78,28 +78,42 @@ $.getJSON("data/data.geojson",function(data){
 	
 	    layer.on({
 	        click: highlightFeature
-	    });
+	    	});
 	    
-    }
+    	}
 	
-});
-
-$.getJSON("data/campuses.geojson", function(data) {
-	campusPoints = L.geoJson(data, {
-		onEachFeature: function (feature, layer){
-			campusPoints.addLayer(layer), layer.bindPopup('<b>'+feature.properties.LicenseeName+'</b><br>DBA: '+feature.properties.DBA+'<br>'+feature.properties.Address+'<br>'+feature.properties.City+', KY')},
-		pointToLayer: function (feature, latlng) {
-			return L.circleMarker (latlng, {
-				pane: "pane600",
-				radius: 3,
-				color: '#ffffff',
-				weight: .5, 
-				fillColor: '#E9C46A',
-				fillOpacity: 1
-			});
-		}
 	})
-});
+
+}); */
+
+//uses jQueryget to get geoJSON data and style it
+//this is also where we're adding the popup and determining what data goes in it
+//the naming convention is "props.NAMEOFCOLUMN"
+$.getJSON("data/data.geojson",function(data){
+	// Create data layer
+	sitePoints = L.geoJson(data, {
+		pointToLayer: function (feature, latlng) {
+        return L.circleMarker (latlng, style(feature));
+		},
+	
+	 onEachFeature: function(feature, layer) {            
+        var props = layer.feature.properties;
+        
+        layer.bindPopup("<b>"+props.Institution+"</b>"+
+		        "<dl>"+
+            props.City+", "+props.State+
+            "<br><a href="+props.Documentation+">Read More</a>"+      
+		        "</dl>");
+	
+	    layer.on({
+	        click: highlightFeature
+	    	});
+	    
+		}
+
+	})
+
+
 
 //time to make the legend and place it on the map
 var legend = L.control({position: 'bottomright'});
@@ -124,11 +138,14 @@ legend.onAdd = function (map) {
     return div;
 };
 
+
+
 //adding the above baselayer, data points and legend to the map
 //the map is being centered on the datapoints in the sitePoints layer
 var map = L.map('map', {maxZoom: 20}).fitBounds(sitePoints.getBounds());
 	baselayer.addTo(map);
 	sitePoints.addTo(map);
+	//campusPoints.addTo(map);
 	legend.addTo(map);
 
-}); 
+});
