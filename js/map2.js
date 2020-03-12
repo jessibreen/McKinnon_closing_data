@@ -1,15 +1,15 @@
-//Create the baselayer and add it to the map
+//Creates the baselayer, more options available at https://leaflet-extras.github.io/leaflet-providers/preview/
 var baselayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
 	subdomains: 'abcd',
 	maxZoom: 20
 });
 
-//Add empty variable for data 
+//Create empty variable for data that we'll pull from the geojson
 var sitePoints = null;
 
-//Sets the color for each Program Type
-//more Program Types can be added by following the pattern below
+//Sets the color for each Sector Type
+//more Sector Types can be added by following the pattern below
 //the last color without a type label is the color that anything with a type that isn't listed will be colored 
 function setColor(type) {
 	return type == 'Private not-for-profit, 4-year or above' ? "#a6cee3" : 
@@ -20,6 +20,8 @@ function setColor(type) {
 	                     "white";
 }
 
+//this is the part where we tell it to use Sector to set the fill color of our circle and create a white outline
+//the white outline is helpful when there are lots of points stacked on top of each other
 function style(feature) {
     return {
         fillColor: setColor(feature.properties.Sector),
@@ -29,6 +31,8 @@ function style(feature) {
     };
 }
 
+//this highlights a clicked on datapoint in white, to help make it clear which point has been selected
+//this is another helpful thing when you've got stacks of points
 var activePoint;
 
 function highlightFeature(e) {
@@ -46,7 +50,9 @@ function highlightFeature(e) {
 }
 
 
-//get geoJSON and put it on the map
+//uses jQueryget to get geoJSON data and style it
+//this is also where we're adding the popup and determining what data goes in it
+//the naming convention is "props.NAMEOFCOLUMN"
 $.getJSON("data/data.geojson",function(data){
 	// Create data layer
 	sitePoints = L.geoJson(data, {
@@ -72,6 +78,7 @@ $.getJSON("data/data.geojson",function(data){
 	
 });
 
+//time to make the legend and place it on the map
 var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (map) {
@@ -94,6 +101,8 @@ legend.onAdd = function (map) {
     return div;
 };
 
+//adding the above baselayer, data points and legend to the map
+//the map is being centered on the datapoints in the sitePoints layer
 var map = L.map('map', {maxZoom: 20}).fitBounds(sitePoints.getBounds());
 	baselayer.addTo(map);
 	sitePoints.addTo(map);
