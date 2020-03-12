@@ -5,8 +5,14 @@ var baselayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/
 	maxZoom: 20
 });
 
-//Create empty variable for data that we'll pull from the geojson
+//Create empty variable for data that we'll pull from the geojsons
 var sitePoints = null;
+var campusPoints = null;
+
+// Create additional map panes to fix potential layering issues
+map.createPane("pane200").style.zIndex = 200; // tile pane
+map.createPane("pane450").style.zIndex = 450; // between overlays and shadows
+map.createPane("pane600").style.zIndex = 600; // marker pane
 
 //Sets the color for each Sector Type
 //more Sector Types can be added by following the pattern below
@@ -66,7 +72,7 @@ $.getJSON("data/data.geojson",function(data){
         
         layer.bindPopup("<b>"+props.Institution+"</b>"+
 		        "<dl>"+
-            props.'City location of institution (2018-19)'+", "+props.State+
+            props.City+", "+props.State+
             "<br><a href="+props.Documentation+">Read More</a>"+      
 		        "</dl>");
 	
@@ -76,6 +82,23 @@ $.getJSON("data/data.geojson",function(data){
 	    
     }
 	
+});
+
+$.getJSON("data/campuses.geojson", function(data) {
+	campusPoints = L.geoJson(data, {
+		onEachFeature: function (feature, layer){
+			campusPoints.addLayer(layer), layer.bindPopup('<b>'+feature.properties.LicenseeName+'</b><br>DBA: '+feature.properties.DBA+'<br>'+feature.properties.Address+'<br>'+feature.properties.City+', KY')},
+		pointToLayer: function (feature, latlng) {
+			return L.circleMarker (latlng, {
+				pane: "pane600",
+				radius: 3,
+				color: '#ffffff',
+				weight: .5, 
+				fillColor: '#E9C46A',
+				fillOpacity: 1
+			});
+		}
+	})
 });
 
 //time to make the legend and place it on the map
