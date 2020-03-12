@@ -1,0 +1,4537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 108232,
+        "Institution": "Academy of Art University",
+        "City location of institution (2018-19)": "San Francisco",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 94105,
+        "Sector of institution (2018-19)": "Private for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "14,691",
+        "Timing": "Online March 11-25",
+        "Notes": "",
+        "Documentation": "https://sanfrancisco.cbslocal.com/2020/03/09/coronavirus-uc-berkeley-san-jose-san-francisco-state-academy-of-art-moves-classes-to-online-delivery-fears/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401,
+          37.78794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 110635,
+        "Institution": "University of California Berkeley",
+        "City location of institution (2018-19)": "Berkeley",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 94720,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "44,235",
+        "Timing": "March 10-30, 2020 (shift to online)",
+        "Notes": "March 10, 2020 - spring break. 2 days for some to get up to speed. And \"Courses that must meet in person because alternative instruction outside of the classroom is not appropriate will continue to meet in person. For the time being, this will include all laboratory, performing arts, and physical education courses, although they are encouraged to minimize in-person meetings as appropriate.\"",
+        "Documentation": "https://news.berkeley.edu/2020/03/09/as-coronavirus-spreads-uc-berkeley-suspends-in-person-instruction/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26,
+          37.87192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 110653,
+        "Institution": "University of California-Irvine",
+        "City location of institution (2018-19)": "Irvine",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 92697,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "37,170",
+        "Timing": "remote for spring quarter",
+        "Notes": "",
+        "Documentation": "https://chancellor.uci.edu/engagement/campus-communications/2020/200310-covid-19-academic-operational-activity.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841,
+          33.64843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 110680,
+        "Institution": "University of California San Diego",
+        "City location of institution (2018-19)": "La Jolla",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 92093,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "37,744",
+        "Timing": "\"For the last week of Winter Quarter, courses are continuing to meet in person, but instructors will no longer use attendance-based points in their grading.",
+        "Notes": "",
+        "Documentation": "https://www.sandiegouniontribune.com/news/education/story/2020-03-09/uc-san-diego-will-close-much-of-the-campus-to-the-public-and-deliver-classes-online-due-to-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.236,
+          32.87775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 112190,
+        "Institution": "City College of San Francisco",
+        "City location of institution (2018-19)": "San Francisco",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": "94112-1898",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "38,862",
+        "Timing": "canceled starting March 12; online at some point after that",
+        "Notes": "",
+        "Documentation": "https://sanfrancisco.cbslocal.com/2020/03/09/coronavirus-uc-berkeley-san-jose-san-francisco-state-academy-of-art-moves-classes-to-online-delivery-fears/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451,
+          37.72595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 117946,
+        "Institution": "Loyola Marymount University",
+        "City location of institution (2018-19)": "Los Angeles",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": "90045-2659",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "10,538",
+        "Timing": "online classes, March 16-31 (after spring break)",
+        "Notes": "",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.416,
+          33.97085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 120698,
+        "Institution": "Palo Alto University",
+        "City location of institution (2018-19)": "Palo Alto",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": "94304-1337",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,241",
+        "Timing": "March 9 -",
+        "Notes": "",
+        "Documentation": "https://www.paloaltou.edu/all-pau-classes-go-online-monday-march-9-due-covid-19-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.187,
+          37.38222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 122597,
+        "Institution": "San Franciso State University",
+        "City location of institution (2018-19)": "San Francisco",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 94132,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "33,506",
+        "Timing": "canceled March 10-15; online from March 16",
+        "Notes": "",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477,
+          37.72122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 122612,
+        "Institution": "University of San Francisco",
+        "City location of institution (2018-19)": "San Francisco",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": "94117-1080",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,511",
+        "Timing": "canceled March 11; online starting March 18",
+        "Notes": "",
+        "Documentation": "https://myusf.usfca.edu/announcement/covid-19-update-for-tuesday-march-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45,
+          37.77662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 122755,
+        "Institution": "San Jose State University",
+        "City location of institution (2018-19)": "San Jose",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": "95192-0001",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "39,002",
+        "Timing": "\"All in-person classes are suspended from March 10-13. This time is to be used for faculty and staff to prepare for the transition from in-person instruction to “distributed” or “fully online” instruction. See below. Current online classes will continue to be held. In-person classes will move to either distributed or fully online instruction from March 16-27 when a determination will be made and communicated regarding in-person classes.\"",
+        "Notes": "",
+        "Documentation": "https://sanfrancisco.cbslocal.com/2020/03/09/coronavirus-uc-berkeley-san-jose-state-academy-of-art-moves-classes-to-online-delivery-fears/; http://blogs.sjsu.edu/newsroom/2020/updates-on-novel-coronavirus-outbreak/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.881,
+          37.33657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 122931,
+        "Institution": "Santa Clara University",
+        "City location of institution (2018-19)": "Santa Clara",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 95053,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,524",
+        "Timing": "online March 10 - April 13th; not closed.,",
+        "Notes": "",
+        "Documentation": "https://www.facebook.com/notes/santa-clara-university/presidents-update-on-covid-19/10151205247159986/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.938,
+          37.34836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 123961,
+        "Institution": "University of Southern California",
+        "City location of institution (2018-19)": "Los Angeles",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 90089,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "49,767",
+        "Timing": "March 10-25, 2020",
+        "Notes": "\"Beginning Tuesday, March 10, the majority of classes will discontinue meeting in person and continue online for the remainder of the quarter (through March 25). Instructors have been asked to conduct classes and exams remotely, wherever possible, with some exceptions... Some specialized and/or professional-technical classes may continue to meet in person, as they are either not feasible to deliver online or require the use of specialized equipment or facilities.\"",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.284,
+          34.02128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 127565,
+        "Institution": "Metropolitan State University of Denver",
+        "City location of institution (2018-19)": "Denver",
+        "State abbreviation (2018-19)": "CO",
+        "ZIP code (2018-19)": "80217-3362",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "25,004",
+        "Timing": "\"By Monday, March 30, we expect to have full implementation of remote teaching and learning\"",
+        "Notes": "",
+        "Documentation": "https://www.msudenver.edu/coronavirus-update/coronavirus-email-moving-classes-online/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.005,
+          39.7442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 128577,
+        "Institution": "Asnuntuck Community College",
+        "City location of institution (2018-19)": "Enfield",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6082,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "2,730",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5702,
+          41.99841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 128771,
+        "Institution": "Central Connecticut State University",
+        "City location of institution (2018-19)": "New Britain",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6050,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "14,006",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.766,
+          41.6925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129215,
+        "Institution": "Eastern Connecticut State University",
+        "City location of institution (2018-19)": "Willimantic",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6226,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "5,899",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2188,
+          41.72167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129367,
+        "Institution": "Capital Community College",
+        "City location of institution (2018-19)": "Hartford",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6103,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "5,027",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6727,
+          41.7684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129543,
+        "Institution": "Housatonic Community College",
+        "City location of institution (2018-19)": "Bridgeport",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06604-4704",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "6,956",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.191,
+          41.17523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129695,
+        "Institution": "Manchester Community College",
+        "City location of institution (2018-19)": "Manchester",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6040,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "9,240",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5619,
+          41.76163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129729,
+        "Institution": "Naugatuck Valley Community College",
+        "City location of institution (2018-19)": "Waterbury",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06708-3089",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "8,851",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.073,
+          41.54975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129756,
+        "Institution": "Middlesex Community College",
+        "City location of institution (2018-19)": "Middletown",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06457-4829",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "3,948",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6118,
+          41.53952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129808,
+        "Institution": "Three Rivers Community College",
+        "City location of institution (2018-19)": "Norwich",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6360,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "5,520",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.103,
+          41.50995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130004,
+        "Institution": "Norwalk Community College",
+        "City location of institution (2018-19)": "Norwalk",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6854,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "8,070",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.451,
+          41.10257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130040,
+        "Institution": "Northwestern Connecticut Community College",
+        "City location of institution (2018-19)": "Winsted",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6098,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "1,716",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0587,
+          41.92067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130217,
+        "Institution": "Quinebaug Valley Community College",
+        "City location of institution (2018-19)": "Danielson",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06239-1436",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "1,906",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8897,
+          41.82623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 129941,
+        "Institution": "University of New Haven",
+        "City location of institution (2018-19)": "West Haven",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06516-1916",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,713",
+        "Timing": "unclear",
+        "Notes": "\"Provost Joe Glover sent a memo to academic deans today recommending that instructors move their courses from face-to-face delivery to an electronic delivery mode effective immediately, wherever possible. While this is not a requirement at this time, there is a strong probability that it will become a requirement before the end of the spring semester, and so instructors are encouraged to transition now.\"",
+        "Documentation": "http://www.ufl.edu/health-updates/march-9-update/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9615,
+          41.29131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130226,
+        "Institution": "Quinnipiac University",
+        "City location of institution (2018-19)": "Hamden",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6518,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,994",
+        "Timing": "online instruction starting March 18, 2020",
+        "Notes": "",
+        "Documentation": "https://www.qu.edu/student-resources/health-campus-safety/coronavirus.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8941,
+          41.41892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130253,
+        "Institution": "Sacred Heart University",
+        "City location of institution (2018-19)": "Fairfield",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06825-1000",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,863",
+        "Timing": "March 9-29, 2020",
+        "Notes": "Classes canceled March 10; online, March 11-29, 2020.",
+        "Documentation": "https://www.sacredheart.edu/offices--departments-directory/health-services/coronavirus/; https://www.nbcconnecticut.com/news/local/sacred-heart-to-move-to-online-class-format-amid-coronavirus-concerns/2235356/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2433,
+          41.22089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130396,
+        "Institution": "Gateway Community College",
+        "City location of institution (2018-19)": "New Haven",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6510,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "9,696",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9277,
+          41.30379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130493,
+        "Institution": "Southern Connecticut State University",
+        "City location of institution (2018-19)": "New Haven",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06515-1355",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,642",
+        "Timing": "classes canceled March 10-15. \"Following Spring Break, classes will be moved to an online-only format until at least April 5.\"",
+        "Notes": "",
+        "Documentation": "https://inside.southernct.edu/announcement/university-closing-five-days"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9479,
+          41.33323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130606,
+        "Institution": "Tunxis Community College",
+        "City location of institution (2018-19)": "Farmington",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06032-3187",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "5,643",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8775,
+          41.7055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130697,
+        "Institution": "Wesleyan University",
+        "City location of institution (2018-19)": "Middletown",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6459,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,498",
+        "Timing": "canceled after spring break; distance learning after that",
+        "Notes": "",
+        "Documentation": "https://www.wesleyan.edu/healthservices/coronavirus/#"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6571,
+          41.55467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130776,
+        "Institution": "Western Connecticut State University",
+        "City location of institution (2018-19)": "Danbury",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": "06810-6826",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,675",
+        "Timing": "\"March 23 through at least Sunday, April 5\"",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4443,
+          41.40037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 130943,
+        "Institution": "University of Delaware",
+        "City location of institution (2018-19)": "Newark",
+        "State abbreviation (2018-19)": "DE",
+        "ZIP code (2018-19)": 19716,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "25,534",
+        "Timing": "suspending classes March 12-13; spring break March 14-22; online March 23 \"until further notice\"",
+        "Notes": "",
+        "Documentation": "https://www.udel.edu/udaily/2020/march/coronavirus-update-march-11-2020-confirmed-case/#.XmlSlIAZlEI.twitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7528,
+          39.67958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 131159,
+        "Institution": "American University",
+        "City location of institution (2018-19)": "Washington",
+        "State abbreviation (2018-19)": "DC",
+        "ZIP code (2018-19)": "20016-8001",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "15,394",
+        "Timing": "\"“Starting on March 18, all classes will need to be taught using distance methods through April 3. How exactly this can be done varies substantially by course and discipline...\"",
+        "Notes": "From WaPo article: \"AU’s provost, Daniel J. Myers, disclosed the coming action in a message to faculty Tuesday. “Although we are moving instruction online, the university is currently remaining open and campus operations continue as normal,” Myers wrote in a letter co-signed with Deputy Provost Mary L. Clark.\"",
+        "Documentation": "https://www.washingtonpost.com/education/2020/03/10/american-university-others-switch-online-teaching-because-coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0889,
+          38.93601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": " ",
+        "Institution": "Georgetown University",
+        "City location of institution (2018-19)": "Washington",
+        "State abbreviation (2018-19)": "DC",
+        "ZIP code (2018-19)": "20057-0001",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "22,091",
+        "Timing": "online March 16-",
+        "Notes": "",
+        "Documentation": "https://www.georgetown.edu/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0735,
+          38.90881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 132903,
+        "Institution": "University of Central Florida",
+        "City location of institution (2018-19)": "Orlando",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": 32816,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "78,073",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2009,
+          28.60216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 133650,
+        "Institution": "Florida Agricultural and Mechanical University",
+        "City location of institution (2018-19)": "Tallahassee",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": 32307,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "10,986",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2902,
+          30.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 133669,
+        "Institution": "Florida Atlantic University",
+        "City location of institution (2018-19)": "Boca Raton",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "33431-0991",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "37,588",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.103,
+          26.37242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 133951,
+        "Institution": "Florida International University",
+        "City location of institution (2018-19)": "Miami",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": 33199,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "70,581",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3739,
+          25.75732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 133951,
+        "Institution": "Florida International University",
+        "City location of institution (2018-19)": "Miami",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": 33199,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "70,581",
+        "Timing": "March 12 \"through at least Saturday, April 4\"",
+        "Notes": "",
+        "Documentation": "https://www.fiu.edu/coronavirus/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3739,
+          25.75732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 134097,
+        "Institution": "Florida State University",
+        "City location of institution (2018-19)": "Tallahassee",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "32306-1037",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "46,946",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2919,
+          30.44076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 134130,
+        "Institution": "University of Florida",
+        "City location of institution (2018-19)": "Gainesville",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": 32611,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "59,603",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3479,
+          29.64629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 136172,
+        "Institution": "University of North Florida",
+        "City location of institution (2018-19)": "Jacksonville",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "32224-7699",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "19,547",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5091,
+          30.27194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 137351,
+        "Institution": "University of South Florida",
+        "City location of institution (2018-19)": "Tampa",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "33620-9951",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "51,282",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4132,
+          28.06146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 138354,
+        "Institution": "University of West Florida",
+        "City location of institution (2018-19)": "Pensacola",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "32514-5750",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "16,374",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2185,
+          30.54908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 151351,
+        "Institution": "Indiana University",
+        "City location of institution (2018-19)": "Bloomington",
+        "State abbreviation (2018-19)": "IN",
+        "ZIP code (2018-19)": "47405-7000",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "46,723",
+        "Timing": "remote until April 6",
+        "Notes": "",
+        "Documentation": "https://www.wthr.com/article/iu-teach-students-remotely-amid-covid-19-concerns ; https://coronavirus.iu.edu/news/03102020.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5266,
+          39.16609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 152080,
+        "Institution": "University of Notre Dame",
+        "City location of institution (2018-19)": "Notre Dame",
+        "State abbreviation (2018-19)": "IN",
+        "ZIP code (2018-19)": 46556,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "13,043",
+        "Timing": "canceled March 16-20; online March 23 \"through at least Monday, April 13\"",
+        "Notes": "",
+        "Documentation": "https://news.nd.edu/news/notre-dame-switches-to-online-after-canceling-in-person-classes/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.239,
+          41.70306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 153384,
+        "Institution": "Grinnell College",
+        "City location of institution (2018-19)": "Grinnell",
+        "State abbreviation (2018-19)": "IA",
+        "ZIP code (2018-19)": "50112-1690",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,774",
+        "Timing": "Students expected to be gone by March 23",
+        "Notes": "",
+        "Documentation": "https://whotv.com/news/coronavirus/grinnell-college-sending-students-home-to-prevent-spread-of-coronavirus/ ; https://www.grinnell.edu/news/important-covid-19-planning-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7221,
+          41.74795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 153603,
+        "Institution": "Iowa State University",
+        "City location of institution (2018-19)": "Ames",
+        "State abbreviation (2018-19)": "IA",
+        "ZIP code (2018-19)": "50011-2103",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "39,108",
+        "Timing": "moving online ASAP",
+        "Notes": "",
+        "Documentation": "https://www.iowaregents.edu/news/board-news/update-from-board-of-regents-president-mike-richards-on-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6485,
+          42.02621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 153658,
+        "Institution": "University of Iowa",
+        "City location of institution (2018-19)": "Iowa City",
+        "State abbreviation (2018-19)": "IA",
+        "ZIP code (2018-19)": "52242-1316",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "35,876",
+        "Timing": "virtual instruction ASAP",
+        "Notes": "",
+        "Documentation": "https://www.iowaregents.edu/news/board-news/update-from-board-of-regents-president-mike-richards-on-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5364,
+          41.66194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 154095,
+        "Institution": "University of Northern Iowa",
+        "City location of institution (2018-19)": "Cedar Falls",
+        "State abbreviation (2018-19)": "IA",
+        "ZIP code (2018-19)": "50614-0005",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "14,221",
+        "Timing": "moving online ASAP",
+        "Notes": "",
+        "Documentation": "https://www.iowaregents.edu/news/board-news/update-from-board-of-regents-president-mike-richards-on-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4597,
+          42.51492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 156295,
+        "Institution": "Berea College",
+        "City location of institution (2018-19)": "Berea",
+        "State abbreviation (2018-19)": "KY",
+        "ZIP code (2018-19)": "40404-2182",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,724",
+        "Timing": "Classes to end March 13.",
+        "Notes": "Ending term only, no online option.",
+        "Documentation": "https://www.wdrb.com/news/berea-college-cancels-semester-and-asks-all-students-to-move/article_18ca2ae8-62ed-11ea-ba3e-632524706207.html?fbclid=IwAR0pQ3-o5sUzJtmmHnqdbrTGdi323qFMsVXgMx0QAs7ufW55lTwpvw9GUdk ; https://www.wave3.com/2020/03/10/berea-college-suspends-instruction-response-coronavirus/ ; https://www.berea.edu/covid-19-plan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2929,
+          37.57202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 161004,
+        "Institution": "Bowdoin College",
+        "City location of institution (2018-19)": "Brunswick",
+        "State abbreviation (2018-19)": "ME",
+        "ZIP code (2018-19)": 4011,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,967",
+        "Timing": "no classes March 23-24; online March 25 on",
+        "Notes": "",
+        "Documentation": "https://www.bowdoin.edu/covid-19/messages/03-11-2020.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9639,
+          43.90713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 162007,
+        "Institution": "Bowie State University",
+        "City location of institution (2018-19)": "Bowie",
+        "State abbreviation (2018-19)": "MD",
+        "ZIP code (2018-19)": "20715-9465",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 6998,
+        "Timing": " March 14 -",
+        "Notes": "",
+        "Documentation": " https://www.wbaltv.com/article/university-system-of-maryland-schools-to-prepare-for-remote-instruction-following-spring-break/31351840  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7597,
+          39.01819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 163286,
+        "Institution": "University of Maryland",
+        "City location of institution (2018-19)": "College Park",
+        "State abbreviation (2018-19)": "MD",
+        "ZIP code (2018-19)": 20742,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "44,052",
+        "Timing": "classes canceled March 23-27. Online instruction March 30-April 10 at least.",
+        "Notes": "",
+        "Documentation": "https://umd.edu/virusinfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9447,
+          38.98818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 164076,
+        "Institution": "Towson University",
+        "City location of institution (2018-19)": "Towson",
+        "State abbreviation (2018-19)": "MD",
+        "ZIP code (2018-19)": "21252-0001",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "25,744",
+        "Timing": "classes canceled March 10-13, 2020. Online after spring break.",
+        "Notes": "\"When preparing to leave for spring break, we ask students take all essential belongings, medications, and materials from your residence hall or work space in case it should become necessary to restrict return access to campus for at least two weeks. \"",
+        "Documentation": "https://www.towson.edu/news/2020/coronavirus-message.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6112,
+          39.39362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 164465,
+        "Institution": "Amherst College",
+        "City location of institution (2018-19)": "Amherst",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "01002-5000",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,946",
+        "Timing": "online, March 12-May , 2020",
+        "Notes": "https://www.amherst.edu/news/covid-19/messages-for-the-college-community/node/766550",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5185,
+          42.37246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 164580,
+        "Institution": "Babson College",
+        "City location of institution (2018-19)": "Babson Park",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02457-0310",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 4079,
+        "Timing": "March 13-",
+        "Notes": "",
+        "Documentation": " https://www.babson.edu/emergency-preparedness/coronavirus/  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2641,
+          42.29702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 164988,
+        "Institution": "Boston University",
+        "City location of institution (2018-19)": "Boston",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": 2215,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "41,418",
+        "Timing": "Online March 20-April 13",
+        "Notes": "",
+        "Documentation": "https://www.bu.edu/articles/2020/bu-all-classes-online-coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1079,
+          42.35112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 166027,
+        "Institution": "Harvard University",
+        "City location of institution (2018-19)": "Cambridge",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": 2138,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "40,803",
+        "Timing": "Fully move to online by March 23",
+        "Notes": "",
+        "Documentation": "https://www.harvard.edu/covid-19-moving-classes-online-other-updates?utm_medium=social&utm_campaign=hu-twitter-general&utm_source=twitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1183,
+          42.37447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 166513,
+        "Institution": "University of Massachusetts-Lowell",
+        "City location of institution (2018-19)": "Lowell",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "01854-5104",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "22,150",
+        "Timing": "online through April 3, then determine next",
+        "Notes": "",
+        "Documentation": "https://www.massachusetts.edu/coronavirus-disease-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3268,
+          42.65286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 166629,
+        "Institution": "University of Massachusetts-Amherst",
+        "City location of institution (2018-19)": "Amherst",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": 1003,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "35,156",
+        "Timing": "online through April 3, then determine next",
+        "Notes": "",
+        "Documentation": "https://www.massachusetts.edu/coronavirus-disease-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5267,
+          42.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 166638,
+        "Institution": "University of Massachusetts-Boston",
+        "City location of institution (2018-19)": "Boston",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02125-3393",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "19,783",
+        "Timing": "online through April 3, then determine next",
+        "Notes": "",
+        "Documentation": "https://www.massachusetts.edu/coronavirus-disease-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0369,
+          42.31288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 166683,
+        "Institution": "Massachusetts Institute of Technology",
+        "City location of institution (2018-19)": "Cambridge",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02139-4307",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,168",
+        "Timing": "Classes canceled March 16 - March 20. Next week is spring break. Online from March 30 through \"the remainder of the semester.\"",
+        "Notes": "",
+        "Documentation": "https://news.mit.edu/2020/letter-regarding-escalating-response-covid-19-0310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0932,
+          42.35924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 167358,
+        "Institution": "Northeastern University Seattle Campus",
+        "City location of institution (2018-19)": "Boston",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02115-5005",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "27,795",
+        "Timing": "March 9, 2020-",
+        "Notes": "",
+        "Documentation": "https://news.northeastern.edu/coronavirus/university-messages/northeastern-will-move-to-online-teaching-for-students-at-its-seattle-campus/; https://news.northeastern.edu/coronavirus/university-messages/; https://news.northeastern.edu/2020/03/06/northeastern-university-president-pushes-for-federal-protections-for-students-in-the-u-s-on-f-1-visas/; https://www.nytimes.com/2020/03/06/us/coronavirus-college-campus-closings.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0888,
+          42.33999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 167835,
+        "Institution": "Smith College",
+        "City location of institution (2018-19)": "Northampton",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": 1063,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,259",
+        "Timing": "\"In-person classes will be offered on campus through Friday, March 13. Spring recess will be extended by one week through Sunday, March 29. Alternate modes of instruction will be offered for the curriculum, beginning on March 30\"",
+        "Notes": "",
+        "Documentation": "https://www.smith.edu/president-kathleen-mccartney/letters/2019-20/announcement-march-10-2020 ; https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-smith-college-tells-students-living-on-campus-to-move-out-president-says-students-should-not-expect-to-return-this-semester.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6381,
+          42.31811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 167987,
+        "Institution": "University of Massachusetts-Dartmouth",
+        "City location of institution (2018-19)": "North Dartmouth",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02747-2300",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,782",
+        "Timing": "online through April 3, then determine next",
+        "Notes": "",
+        "Documentation": "https://www.massachusetts.edu/coronavirus-disease-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0046,
+          41.62869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 168148,
+        "Institution": "Tufts University",
+        "City location of institution (2018-19)": "Medford",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "02155-5555",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,492",
+        "Timing": "Spring break extended March 13-25; online only afterwards",
+        "Notes": "",
+        "Documentation": "https://coronavirus.tufts.edu/3-10-2020-presidents-message/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1183,
+          42.40855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 168263,
+        "Institution": "Westfield State University",
+        "City location of institution (2018-19)": "Westfield",
+        "State abbreviation (2018-19)": "MA",
+        "ZIP code (2018-19)": "01086-1630",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,598",
+        "Timing": "classes canceled March 16-20; online March 23-27",
+        "Notes": "",
+        "Documentation": "http://www.westfield.ma.edu//student-life/health-services/coronavirus-update"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7965,
+          42.1327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 169248,
+        "Institution": "Central Michigan University",
+        "City location of institution (2018-19)": "Mount Pleasant",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": 48859,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "26,971",
+        "Timing": "online classes starting March 20 (I think)",
+        "Notes": "",
+        "Documentation": "https://www.cmich.edu/news/article/Pages/CMU-coronavirus-updates.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7753,
+          43.5912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 169798,
+        "Institution": "Eastern Michigan University",
+        "City location of institution (2018-19)": "Ypsilanti",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": 48197,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "23,715",
+        "Timing": "classes canceled March 12-15; online March 16-31; f2f to resume April 1",
+        "Notes": "",
+        "Documentation": "https://www.emich.edu/uhs/coronavirus/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6225,
+          42.24694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 170976,
+        "Institution": "University of Michigan",
+        "City location of institution (2018-19)": "Ann Arbor",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": 48109,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "47,543",
+        "Timing": "canceled March 12-13; online March 16-21",
+        "Notes": "",
+        "Documentation": "https://umich.edu/announcements/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7428,
+          42.27592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 171100,
+        "Institution": "Michigan State University",
+        "City location of institution (2018-19)": "East Lansing",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": "48824-1046",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "55,423",
+        "Timing": "shifting online March 11-April 20",
+        "Notes": "",
+        "Documentation": "https://msu.edu/coronavirus/latest-updates/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4761,
+          42.73212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 171128,
+        "Institution": "Michigan Technological University",
+        "City location of institution (2018-19)": "Houghton",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": "49931-1295",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,727",
+        "Timing": "classes canceled March 15-April 16. Online optional (?).",
+        "Notes": "",
+        "Documentation": "https://blogs.mtu.edu/covid-19/2020/03/11/presidents-email/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5481,
+          47.11866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 171571,
+        "Institution": "Oakland University",
+        "City location of institution (2018-19)": "Rochester Hills",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": "48309-4401",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "22,694",
+        "Timing": "online learning March 16-April 25.",
+        "Notes": "",
+        "Documentation": "https://oakland.edu/oumagazine/news/president/2020/Effective-5-pm-face-to-face-instruction-suspended"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2164,
+          42.67457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 172051,
+        "Institution": "Saginaw Valley State University",
+        "City location of institution (2018-19)": "University Center",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": 48710,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,688",
+        "Timing": "online classes March 16-April 17",
+        "Notes": "",
+        "Documentation": "https://www.svsu.edu/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9643,
+          43.51176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 172644,
+        "Institution": "Wayne State University",
+        "City location of institution (2018-19)": "Detroit",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": 48202,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "32,218",
+        "Timing": "spring break extended through March 23; online plan tk",
+        "Notes": "",
+        "Documentation": "https://wayne.edu/coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.069,
+          42.35899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 172699,
+        "Institution": "Western Michigan University",
+        "City location of institution (2018-19)": "Kalamazoo",
+        "State abbreviation (2018-19)": "MI",
+        "ZIP code (2018-19)": "49008-5200",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "25,645",
+        "Timing": "canceled March 12-13; online March 16-April 3",
+        "Notes": "",
+        "Documentation": "https://wmich.edu/covid-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6138,
+          42.28219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 174066,
+        "Institution": "University of Minnesota-Twin Cities",
+        "City location of institution (2018-19)": "Minneapolis",
+        "State abbreviation (2018-19)": "MN",
+        "ZIP code (2018-19)": "55455-0213",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "64,115",
+        "Timing": "Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
+        "Notes": "\"Provost Joe Glover sent a memo to academic deans today recommending that instructors move their courses from face-to-face delivery to an electronic delivery mode effective immediately, wherever possible. While this is not a requirement at this time, there is a strong probability that it will become a requirement before the end of the spring semester, and so instructors are encouraged to transition now.\"",
+        "Documentation": "http://www.ufl.edu/health-updates/march-9-update/; https://drive.google.com/file/d/1_ph5nt6DcL1bds0ojWaojg5c6vgacGco/view; https://safe-campus.umn.edu/public-health-alerts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2355,
+          44.97285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 174075,
+        "Institution": "University of Minnesota-Crookston",
+        "City location of institution (2018-19)": "Crookston",
+        "State abbreviation (2018-19)": "MN",
+        "ZIP code (2018-19)": "56716-5001",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,343",
+        "Timing": "online \"March 18, 2020, until at least April 1, 2020\"",
+        "Notes": "",
+        "Documentation": "https://drive.google.com/file/d/1_ph5nt6DcL1bds0ojWaojg5c6vgacGco/view; https://safe-campus.umn.edu/public-health-alerts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6062,
+          47.80254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 174233,
+        "Institution": "University of Minnesota-Duluth",
+        "City location of institution (2018-19)": "Duluth",
+        "State abbreviation (2018-19)": "MN",
+        "ZIP code (2018-19)": 55812,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,777",
+        "Timing": "Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
+        "Notes": "",
+        "Documentation": "https://drive.google.com/file/d/1_ph5nt6DcL1bds0ojWaojg5c6vgacGco/view; https://safe-campus.umn.edu/public-health-alerts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0844,
+          46.81713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 174251,
+        "Institution": "University of Minnesota-Morris",
+        "City location of institution (2018-19)": "Morris",
+        "State abbreviation (2018-19)": "MN",
+        "ZIP code (2018-19)": 56267,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,778",
+        "Timing": "online \"March 18, 2020, until at least April 1, 2020\"",
+        "Notes": "",
+        "Documentation": "https://drive.google.com/file/d/1_ph5nt6DcL1bds0ojWaojg5c6vgacGco/view; https://safe-campus.umn.edu/public-health-alerts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9018,
+          45.58983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 178059,
+        "Institution": "Maryville University of Saint Louis",
+        "City location of institution (2018-19)": "Saint Louis",
+        "State abbreviation (2018-19)": "MO",
+        "ZIP code (2018-19)": "63141-7299",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "10,104",
+        "Timing": "March 16-30",
+        "Notes": "",
+        "Documentation": "https://www.maryville.edu/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.506,
+          38.64477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 179159,
+        "Institution": "Saint Louis University",
+        "City location of institution (2018-19)": "Saint Louis",
+        "State abbreviation (2018-19)": "MO",
+        "ZIP code (2018-19)": "63103-2097",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "17,338",
+        "Timing": "Closed week of March 15th",
+        "Notes": "",
+        "Documentation": "https://www.ksdk.com/article/news/health/coronavirus/slu-suspends-in-person-classes-coronavirus-concerns/63-c671cebb-28ca-4b62-a577-06fc35ddafc5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2351,
+          38.6368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 179867,
+        "Institution": "Washington University in St. Louis",
+        "City location of institution (2018-19)": "Saint Louis",
+        "State abbreviation (2018-19)": "MO",
+        "ZIP code (2018-19)": "63130-4899",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "16,962",
+        "Timing": "spring break extended to March 23, 2020, then \"[b]eginning March 23, there will be no in-person courses taught\nin the classroom or any other setting until at least April 30, 2020. \"",
+        "Notes": "",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3106,
+          38.64793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 180461,
+        "Institution": "Montana State University",
+        "City location of institution (2018-19)": "Bozeman",
+        "State abbreviation (2018-19)": "MT",
+        "ZIP code (2018-19)": 59717,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,722",
+        "Timing": "allow students to miss f2f class, take online",
+        "Notes": "",
+        "Documentation": "https://www.facebook.com/notes/montana-state-university/guidance-to-students-about-class-absences/10157150619452406/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049,
+          45.66673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 181330,
+        "Institution": "Midland University (Nebraska)answered",
+        "City location of institution (2018-19)": "Fremont",
+        "State abbreviation (2018-19)": "NE",
+        "ZIP code (2018-19)": 68025,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,983",
+        "Timing": "",
+        "Notes": "https://www.midlandu.edu/midland-university-closed-through-march-15",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.488,
+          41.43674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 184782,
+        "Institution": "Rowan University",
+        "City location of institution (2018-19)": "Glassboro",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": 8028,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "21,305",
+        "Timing": "Extended spring break",
+        "Notes": "",
+        "Documentation": "https://www.nj.com/coronavirus/2020/03/coronavirus-prompts-rowan-university-to-extend-spring-break-so-online-plans-can-be-made.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1191,
+          39.70911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 185262,
+        "Institution": "Kean University",
+        "City location of institution (2018-19)": "Union",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": 7083,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "16,577",
+        "Timing": "Online starting March 16. Then \"[t]he University currently plans to resume on-campus instruction on Monday, March 30 and will continue to update the campus community on this evolving situation.\"",
+        "Notes": "",
+        "Documentation": "https://www.kean.edu/offices/student-health-services/coronavirus-information#virus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2335,
+          40.67798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 185572,
+        "Institution": "Monmouth University",
+        "City location of institution (2018-19)": "Fremont",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "07764-1898",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,936",
+        "Timing": "March 9-13 (spring break March 14-22)",
+        "Notes": "",
+        "Documentation": "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-update-here-are-the-schools-that-are-are-closing-altering-schedules.html; https://www.monmouth.edu/health-services/health-resources-and-referrals/covid-19/march-9-2020-classes-cancelled/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0064,
+          40.28007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186122,
+        "Institution": "Princeton Theological Seminary",
+        "City location of institution (2018-19)": "Princeton",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "08542-0803",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 508,
+        "Timing": "canceled on-campus events",
+        "Notes": "",
+        "Documentation": "https://www.ptsem.edu/alerts/statements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6665,
+          40.34585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186131,
+        "Institution": "Princeton University",
+        "City location of institution (2018-19)": "Princeton",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "08544-0070",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "8,593",
+        "Timing": "March 23 -",
+        "Notes": "\"Princeton will move to virtual instruction following spring break and decrease the number of gatherings on campus.\"",
+        "Documentation": "https://www.princeton.edu/news/2020/03/09/president-eisgruber-updates-university-next-steps-regarding-covid-19-ensure-health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6594,
+          40.34873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186371,
+        "Institution": "Rutgers University-Camden",
+        "City location of institution (2018-19)": "Camden",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": 8102,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,904",
+        "Timing": "Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
+        "Notes": "",
+        "Documentation": "https://president.rutgers.edu/public-remarks/letters/important-update-university-operating-status-regarding-covid-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1222,
+          39.94806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186380,
+        "Institution": "Rutgers University-New Brunswick",
+        "City location of institution (2018-19)": "New Brunswick",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "08901-1281",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "55,698",
+        "Timing": "Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
+        "Notes": "",
+        "Documentation": "https://president.rutgers.edu/public-remarks/letters/important-update-university-operating-status-regarding-covid-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4463,
+          40.49877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186399,
+        "Institution": "Rutgers University-Newark",
+        "City location of institution (2018-19)": "Newark",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": 7102,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "15,220",
+        "Timing": "Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
+        "Notes": "",
+        "Documentation": "https://president.rutgers.edu/public-remarks/letters/important-update-university-operating-status-regarding-covid-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1758,
+          40.73912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186584,
+        "Institution": "Seton Hall",
+        "City location of institution (2018-19)": "South Orange",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "07079-2697",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,177",
+        "Timing": "11-Mar",
+        "Notes": "",
+        "Documentation": "https://www.shu.edu/health-intervention-communication/coronavirus-campus-communications.cfm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.246,
+          40.74234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 186867,
+        "Institution": "Stevens Institute of Technology",
+        "City location of institution (2018-19)": "Hoboken",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "07030-5991",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "8,015",
+        "Timing": "Cancel classes March 10; online, March 11-13 2020",
+        "Notes": "",
+        "Documentation": "https://www.nj.com/hudson/2020/03/amid-rising-coronavirus-fears-stevens-shifts-classes-online.html; https://www.stevens.edu/directory/student-health-services/health-advisory-update/coronavirus-2019-covid-19-information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0253,
+          40.74478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 187134,
+        "Institution": "The College of New Jersey",
+        "City location of institution (2018-19)": "Ewing",
+        "State abbreviation (2018-19)": "NJ",
+        "ZIP code (2018-19)": "08628-7718",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "8,630",
+        "Timing": "March 13 -",
+        "Notes": "",
+        "Documentation": "https://emergency.tcnj.edu/covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7788,
+          40.26865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 188429,
+        "Institution": "Adelphi University",
+        "City location of institution (2018-19)": "Garden City",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "11530-0701",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 9113,
+        "Timing": " March 11 -",
+        "Notes": "",
+        "Documentation": " https://health.adelphi.edu/coronavirus-information/  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6533,
+          40.72144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 189097,
+        "Institution": "Barnard College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10027-6598",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,705",
+        "Timing": "March 23 -",
+        "Notes": "Part of Columbia University.",
+        "Documentation": "https://www.westsiderag.com/2020/03/08/columbia-cancels-classes-and-plans-for-remote-learning-after-student-placed-in-quarantine; https://alert.barnard.edu/news/important-update-faculty-regarding-class-cancellations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9633,
+          40.8101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190150,
+        "Institution": "Columbia University",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10027,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "32,789",
+        "Timing": "March 9 -10, 2020",
+        "Notes": "Cancelling classes Monday and Tuesday and going remote w/ instruction on Wednesday",
+        "Documentation": "https://preparedness.columbia.edu/news/update-covid-19-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9619,
+          40.80829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190512,
+        "Institution": "CUNY Bernard M Baruch College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10010,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "22,394",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9834,
+          40.74024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190521,
+        "Institution": "CUNY Borough of Manhattan Community College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10007,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "35,812",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0118,
+          40.71879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190530,
+        "Institution": "CUNY Bronx Community College",
+        "City location of institution (2018-19)": "Bronx",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10453,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "14,954",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.912,
+          40.85811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190549,
+        "Institution": "CUNY Brooklyn College",
+        "City location of institution (2018-19)": "Brooklyn",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11210,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "21,837",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9499,
+          40.63152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190558,
+        "Institution": "College of Staten Island CUNY",
+        "City location of institution (2018-19)": "Staten Island",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10314,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "16,391",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1485,
+          40.60183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190567,
+        "Institution": "CUNY City College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10031,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,956",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9485,
+          40.81985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190576,
+        "Institution": "CUNY Graduate School and University Center",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10016,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,522",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9838,
+          40.74861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190585,
+        "Institution": "CUNY Hostos Community College",
+        "City location of institution (2018-19)": "Bronx",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10451,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "9,755",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9268,
+          40.81812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190594,
+        "Institution": "CUNY Hunter College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10065,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "28,079",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9648,
+          40.76867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190600,
+        "Institution": "CUNY John Jay College of Criminal Justice",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10019,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,615",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9884,
+          40.77035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190619,
+        "Institution": "CUNY Kingsborough Community College",
+        "City location of institution (2018-19)": "Brooklyn",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11235,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "20,637",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9358,
+          40.57722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190628,
+        "Institution": "CUNY LaGuardia Community College",
+        "City location of institution (2018-19)": "Long Island City",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11101,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "25,259",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9351,
+          40.7445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190637,
+        "Institution": "CUNY Lehman College",
+        "City location of institution (2018-19)": "Bronx",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10468,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,715",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8954,
+          40.87296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190646,
+        "Institution": "CUNY Medgar Evers College",
+        "City location of institution (2018-19)": "Brooklyn",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11225,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,167",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9571,
+          40.66626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190655,
+        "Institution": "CUNY New York City College of Technology",
+        "City location of institution (2018-19)": "Brooklyn",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11201,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "20,973",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9879,
+          40.69548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190664,
+        "Institution": "CUNY Queens College",
+        "City location of institution (2018-19)": "Queens",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11367,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "24,362",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8161,
+          40.73518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190673,
+        "Institution": "CUNY Queensborough Community College",
+        "City location of institution (2018-19)": "Bayside",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "11364-1497",
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "20,604",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7567,
+          40.75548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190682,
+        "Institution": "CUNY School of Law",
+        "City location of institution (2018-19)": "Long Island City",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11101,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 506,
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9436,
+          40.7478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 190691,
+        "Institution": "CUNY York College",
+        "City location of institution (2018-19)": "Jamaica",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11451,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "10,743",
+        "Timing": "online March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7963,
+          40.70158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 191241,
+        "Institution": "Fordham University - all campuses",
+        "City location of institution (2018-19)": "Bronx",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10458,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,057",
+        "Timing": "March 9 - indefinitely",
+        "Notes": "Classes cancelled 3/9-10. Moving to online. Spring recess 3/12-20. Classes to remain online following until at least 3/29",
+        "Documentation": "https://www.fordham.edu/info/29575/coronavirus_updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8827,
+          40.85935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 191649,
+        "Institution": "Hofstra University",
+        "City location of institution (2018-19)": "Hempstead",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11549,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,170",
+        "Timing": "March 9-13, 2020",
+        "Notes": "Seems to be canceled, not migrated online.",
+        "Documentation": "https://www.hofstra.edu/studentaffairs/studentservices/welctr/novel-coronavirus.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6008,
+          40.71596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 193654,
+        "Institution": "The New School",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10011-8871",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,333",
+        "Timing": "online, March 23-27",
+        "Notes": "",
+        "Documentation": "https://twitter.com/jamesmfarner/status/1237194666635923456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9971,
+          40.73551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 193900,
+        "Institution": "New York University",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10012-1091",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "57,014",
+        "Timing": "Online",
+        "Notes": "\"\"Updated: 3/9/2020 - 6:00 p.m.",
+        "Documentation": "https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/our-global-communities.html#nyc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9973,
+          40.72945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 195526,
+        "Institution": "Skidmore College",
+        "City location of institution (2018-19)": "Saratoga Springs",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 12866,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,860",
+        "Timing": "cancel, March 16-22",
+        "Notes": "No shift online yet; instead, they'll \"explore alternatives to in-person classroom instruction\"",
+        "Documentation": "https://www.skidmore.edu/covid19/messages/2020-03-09-message.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7853,
+          43.09704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 195809,
+        "Institution": "St.John's University",
+        "City location of institution (2018-19)": "Queens",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 11439,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "23,542",
+        "Timing": "online, March 10 -27, 2020",
+        "Notes": "",
+        "Documentation": "https://www.pugetsound.edu/student-life/counseling-health-and-wellness/coronavirus-2020/ ; https://www.thenewstribune.com/news/local/article241015121.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7961,
+          40.72252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196006,
+        "Institution": "SUNY College of Technology at Alfred",
+        "City location of institution (2018-19)": "Alfred",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 14802,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,060",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7946,
+          42.25526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196015,
+        "Institution": "SUNY College of Technology at Canton",
+        "City location of institution (2018-19)": "Canton",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "13617-1098",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,981",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1829,
+          44.6041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196024,
+        "Institution": "SUNY College of Technology at Delhi",
+        "City location of institution (2018-19)": "Delhi",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "13753-1100",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,207",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9246,
+          42.26986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196033,
+        "Institution": "SUNY College of Agriculture and Technology at Cobleskill",
+        "City location of institution (2018-19)": "Cobleskill",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 12043,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,277",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4983,
+          42.67253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196051,
+        "Institution": "SUNY Morrisville",
+        "City location of institution (2018-19)": "Morrisville",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 13408,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,741",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6406,
+          42.89396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196103,
+        "Institution": "SUNY College of Environmental Science and Forestry",
+        "City location of institution (2018-19)": "Syracuse",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 13210,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,380",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1387,
+          43.03477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196112,
+        "Institution": "SUNY Polytechnic Institute",
+        "City location of institution (2018-19)": "Utica",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 13502,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,307",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2298,
+          43.1377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196121,
+        "Institution": "SUNY College at Brockport",
+        "City location of institution (2018-19)": "Brockport",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "14420-2919",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,539",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9472,
+          43.21193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196130,
+        "Institution": "SUNY Buffalo State",
+        "City location of institution (2018-19)": "Buffalo",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 14222,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,048",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8821,
+          42.93383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196149,
+        "Institution": "SUNY Cortland",
+        "City location of institution (2018-19)": "Cortland",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "13045-0900",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,886",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1887,
+          42.59802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196167,
+        "Institution": "SUNY College at Geneseo",
+        "City location of institution (2018-19)": "Geneseo",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "14454-1465",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,000",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8219,
+          42.79665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196185,
+        "Institution": "SUNY Oneonta",
+        "City location of institution (2018-19)": "Oneonta",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "13820-4015",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,171",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0636,
+          42.46886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196194,
+        "Institution": "SUNY College at Oswego",
+        "City location of institution (2018-19)": "Oswego",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 13126,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "11,159",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5408,
+          43.45429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196200,
+        "Institution": "SUNY College at Potsdam",
+        "City location of institution (2018-19)": "Potsdam",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "13676-2294",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,365",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9738,
+          44.66215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196228,
+        "Institution": "SUNY College of Optometry",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10036-8003",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 413,
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9822,
+          40.75447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196237,
+        "Institution": "SUNY College at Old Westbury",
+        "City location of institution (2018-19)": "Old Westbury",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "11568-0210",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,473",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5719,
+          40.79902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196246,
+        "Institution": "SUNY College at Plattsburgh",
+        "City location of institution (2018-19)": "Plattsburgh",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "12901-2681",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,558",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4665,
+          44.69293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196255,
+        "Institution": "SUNY Downstate Medical Center",
+        "City location of institution (2018-19)": "Brooklyn",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "11203-2098",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,033",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9455,
+          40.65386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196264,
+        "Institution": "SUNY Empire State College",
+        "City location of institution (2018-19)": "Saratoga Springs",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "12866-4391",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,047",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7825,
+          43.07728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196291,
+        "Institution": "SUNY Maritime College",
+        "City location of institution (2018-19)": "Throggs Neck",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10465-4198",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,998",
+        "Timing": "online starting March 19",
+        "Notes": "",
+        "Documentation": "https://www.suny.edu/suny-news/press-releases/03-20/3-11-20/covid19-distance-learning.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7953,
+          40.80722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196413,
+        "Institution": "Syracuse University",
+        "City location of institution (2018-19)": "Syracuse",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 13244,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "37,673",
+        "Timing": "March 13 -",
+        "Notes": "",
+        "Documentation": "https://news.syr.edu/blog/2020/03/10/residential-instruction-suspended-effective-end-of-day-friday-march-13-university-to-transition-to-online-learning/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.137,
+          43.04018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 196592,
+        "Institution": "Touro College (NY City)",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": 10018,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "15,464",
+        "Timing": "March 9 -12",
+        "Notes": "",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9894,
+          40.7532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 197708,
+        "Institution": "Yeshiva University",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10033-3299",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,836",
+        "Timing": "March 4-10",
+        "Notes": "One rabbi infected",
+        "Documentation": "https://www.nytimes.com/2020/03/06/us/coronavirus-college-campus-closings.html;https://www.yu.edu/health-alert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9299,
+          40.85061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 198419,
+        "Institution": "Duke University",
+        "City location of institution (2018-19)": "Durham",
+        "State abbreviation (2018-19)": "NC",
+        "ZIP code (2018-19)": 27708,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "18,107",
+        "Timing": "Spring break extended until March 22 and remote classes to begin on March 23",
+        "Notes": "",
+        "Documentation": "https://coronavirus.duke.edu/ ;https://coronavirus.duke.edu/2020/03/10/community-update-changes-to-spring-break-and-classes-new-travel-restrictions/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9376,
+          36.00114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 200800,
+        "Institution": "University of Akron",
+        "City location of institution (2018-19)": "Akron",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "44325-4702",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "23,217",
+        "Timing": "Classes cancelled through March 29; classes resume online March 30th",
+        "Notes": "",
+        "Documentation": "https://www.uakron.edu/healthservices/news/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5117,
+          41.07855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 201195,
+        "Institution": "Baldwin Wallace University",
+        "City location of institution (2018-19)": "Berea",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "44017-2088",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,578",
+        "Timing": "Extending spring break 3/16-3/20; 3/23-4/10 remote classes; 4/13 in-person classes resume",
+        "Notes": "",
+        "Documentation": "https://www.bw.edu/advisory/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8511,
+          41.37302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 201441,
+        "Institution": "Bowling Green State University-Main Campus",
+        "City location of institution (2018-19)": "Bowling Green",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": 43403,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 20459,
+        "Timing": " March 23 - ",
+        "Notes": "",
+        "Documentation": " https://www.bgsu.edu/coronavirus.html  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6409,
+          41.37551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 201645,
+        "Institution": "Case Western Reserve University",
+        "City location of institution (2018-19)": "Cleveland",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": 44106,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "12,661",
+        "Timing": "Classes cancelled 3/16-3/17; remote classes to resume 3/18",
+        "Notes": "",
+        "Documentation": "https://case.edu/studentlife/healthcounseling/health-serviceshealth-updates/march-10-message-campus-moving-remote-delivery-courses-information-students-living-campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6096,
+          41.50742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 201885,
+        "Institution": "University of Cincinnati",
+        "City location of institution (2018-19)": "Cincinnati",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "45221-0063",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "43,326",
+        "Timing": "\"Effective Saturday, March 14, 2020, UC will suspend face-to-face instruction, lectures, discussion sessions, seminars and other similar classroom settings, and move to remote instruction. Face-to-face instruction will resume Monday, April 13, 2020\"",
+        "Notes": "\"Instruction that involves labs, studios, music lessons, clinical experience, e.g., may meet at the discretion of the dean provided that social distancing is observed and respected.\"",
+        "Documentation": "https://www.uc.edu/publichealth.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5143,
+          39.13116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 202170,
+        "Institution": "Columbus College of Art and Design",
+        "City location of institution (2018-19)": "Columbus",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": 43215,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,113",
+        "Timing": "spring break extended through March 22; online for 2 weeks starting March 23",
+        "Notes": "",
+        "Documentation": "https://www.ccad.edu/publichealth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9895,
+          39.96607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 203067,
+        "Institution": "Hebrew Union College",
+        "City location of institution (2018-19)": "New York",
+        "State abbreviation (2018-19)": "NY",
+        "ZIP code (2018-19)": "10012-1186",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 362,
+        "Timing": "\"The Cincinnati campus is closed for students, faculty, and staff today, Tuesday, March 10 and Wednesday, March 11. Classes in Cincinnati will be held via Zoom on Wednesday, March 11, and Thursday, March 12. Classes in New York will be held via Zoom on Wednesday, March 11 and Thursday, March 12. Classes and other activities in Los Angeles will proceed as planned this week. Classes and other activities in Jerusalem will proceed as planned this week.\"",
+        "Notes": "",
+        "Documentation": "http://huc.edu/news/2020/03/10/covid-19-%E2%80%93-planning-and-preparedness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9945,
+          40.72894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 203368,
+        "Institution": "John Carroll University",
+        "City location of institution (2018-19)": "University Heights",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "44118-4581",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,018",
+        "Timing": "\"Beginning... March 11, all in-person, face-to-face classes are suspended through and including Monday, April 13. To give our faculty and staff time to prepare for the transition to online learning, we are also cancelling all classes on Wednesday, March 11, Thursday, March 12 and Friday, March 13. Beginning Monday, March 16, all classes will resume online until at least Monday, April 13\"",
+        "Notes": "",
+        "Documentation": "https://jcu.edu/healthupdate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5313,
+          41.49132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 203517,
+        "Institution": "Kent State University",
+        "City location of institution (2018-19)": "Kent",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "44242-0001",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "34,023",
+        "Timing": "classes canceled March 10-15. \"Classes will be conducted remotely March 16 through April 13, with the exception of spring break, which is the week of March 23.\"",
+        "Notes": "",
+        "Documentation": "https://www.record-courier.com/news/20200310/kent-state-akron-cancel-in-person-classes-due-to-coronavirus-concerns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3425,
+          41.14665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 204796,
+        "Institution": "Ohio State University",
+        "City location of institution (2018-19)": "Columbus",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": 43210,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "64,924",
+        "Timing": "Online March 16-30 (spring break March 9-13)",
+        "Notes": "",
+        "Documentation": "https://www.thelantern.com/2020/03/ohio-state-suspends-classes-until-march-30-due-to-coronavirus-outbreak/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0149,
+          39.99932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 206437,
+        "Institution": "Walsh University",
+        "City location of institution (2018-19)": "North Canton",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "44720-3396",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,232",
+        "Timing": "canceled March 11-12. Starting online March 13",
+        "Notes": "",
+        "Documentation": "https://www.walsh.edu/coronavirus.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3699,
+          40.87391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 206622,
+        "Institution": "Xavier University",
+        "City location of institution (2018-19)": "Cincinnati",
+        "State abbreviation (2018-19)": "OH",
+        "ZIP code (2018-19)": "45207-1092",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,956",
+        "Timing": "March 16-April 13; back in person April 14?",
+        "Notes": "\"We hope to resume in-person instruction on Tuesday, April 14, after the Easter holiday, but we will continue to evaluate the situation\"",
+        "Documentation": "https://www.xavier.edu/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4747,
+          39.14955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 211273,
+        "Institution": "Bryn Mawr College",
+        "City location of institution (2018-19)": "Bryn Mawr",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 19010,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,738",
+        "Timing": "online March 16-April 3",
+        "Notes": "",
+        "Documentation": "https://www.brynmawr.edu/healthcenter/coronavirus-information-and-updates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3132,
+          40.02736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 211088,
+        "Institution": "Arcadia University",
+        "City location of institution (2018-19)": "Glenside",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "19038-3295",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 4575,
+        "Timing": " March 12 - ",
+        "Notes": "",
+        "Documentation": " https://www.arcadia.edu/announcements/2020/03/10/continuity-plan-update-campus-community  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1639,
+          40.09261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 211158,
+        "Institution": "Bloomsburg University of Pennsylvania",
+        "City location of institution (2018-19)": "Bloomsburg",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 17815,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 10288,
+        "Timing": " March 10 - 22",
+        "Notes": "",
+        "Documentation": " https://www.bloomu.edu/coronavirus  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4478,
+          41.00782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 211291,
+        "Institution": "Bucknell University",
+        "City location of institution (2018-19)": "Lewisburg",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 17837,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,832",
+        "Timing": "Online March 19 - end of semester",
+        "Notes": "",
+        "Documentation": " https://www.bucknell.edu/life-bucknell/health-wellness-safety/coronavirus-covid-19-updates  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8826,
+          40.95432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 212009,
+        "Institution": "Dickinson College",
+        "City location of institution (2018-19)": "Carlisle",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "17013-2896",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,435",
+        "Timing": "spring break extended through March 21",
+        "Notes": "",
+        "Documentation": "https://www.dickinson.edu//homepage/1380/covid-19_dashboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1979,
+          40.2028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 212577,
+        "Institution": "Franklin and Marshall College",
+        "City location of institution (2018-19)": "Lancaster",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "17604-3003",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,486",
+        "Timing": "March 23 \"through at least April 3\"",
+        "Notes": "",
+        "Documentation": "https://www.fandm.edu/president/president-s-messages-to-the-community/covid-19-update-march-11-2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.319,
+          40.04805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 213251,
+        "Institution": "Juniata College",
+        "City location of institution (2018-19)": "Huntingdon",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "16652-2196",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,564",
+        "Timing": "online classes starting March 23",
+        "Notes": "",
+        "Documentation": "https://radio.wpsu.org/post/juniata-college-lock-haven-and-pitt-bradford-move-online-classes-over-coronavirus-concerns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0173,
+          40.50052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 213385,
+        "Institution": "Lafayette College",
+        "City location of institution (2018-19)": "Easton",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "18042-1768",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,647",
+        "Timing": "spring break, then online teaching March 23-April 5",
+        "Notes": "",
+        "Documentation": "https://covid19.lafayette.edu/2020/03/11/moving-to-remote-teaching-march-23-april-5/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2098,
+          40.69956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 214175,
+        "Institution": "Muhlenberg College",
+        "City location of institution (2018-19)": "Allentown",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 18104,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,481",
+        "Timing": "last day of f2f classes is March 13th; online thereafter",
+        "Notes": "",
+        "Documentation": "https://www.muhlenberg.edu/offices/healthcenter/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5085,
+          40.59642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 214777,
+        "Institution": "Pennsylvania State University-Main Campus",
+        "City location of institution (2018-19)": "University Park",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "16802-1503",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "50,426",
+        "Timing": "online March 16-April 3",
+        "Notes": "",
+        "Documentation": "https://news.psu.edu/story/611757/2020/03/11/academics/all-penn-state-classes-take-place-remotely-beginning-march-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8628,
+          40.7965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 215062,
+        "Institution": "University of Pennsylvania",
+        "City location of institution (2018-19)": "Philadelphia",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": "19104-6303",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "28,755",
+        "Timing": "spring break extended; online teaching March 23-",
+        "Notes": "",
+        "Documentation": "https://penntoday.upenn.edu/announcements/coronavirus-and-important-changes-our-operations-remainder-semester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1939,
+          39.95093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 216287,
+        "Institution": "Swarthmore College",
+        "City location of institution (2018-19)": "Swarthmore",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 19081,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,653",
+        "Timing": "spring break extended through March 20; online teaching March 23 \"through at least Friday, April 3\"",
+        "Notes": "\"all classes will be taught remotely either through Zoom video, teleconference, or a similar technology\" - implying only synchronous meeting?",
+        "Documentation": "https://www.swarthmore.edu/coronavirus-disease-2019-covid-19-information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3543,
+          39.90516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 216764,
+        "Institution": "West Chester University",
+        "City location of institution (2018-19)": "West Chester",
+        "State abbreviation (2018-19)": "PA",
+        "ZIP code (2018-19)": 19383,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "19,515",
+        "Timing": "",
+        "Notes": "",
+        "Documentation": "https://www.wcupa.edu/communications/newsroom/2020/03.10update.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5981,
+          39.9534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 219709,
+        "Institution": "Belmont University",
+        "City location of institution (2018-19)": "Nashville",
+        "State abbreviation (2018-19)": "TN",
+        "ZIP code (2018-19)": "37212-3757",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 8502,
+        "Timing": " March 10 - April 5",
+        "Notes": "",
+        "Documentation": " http://www.belmont.edu/health-services/coronavirus/index.html  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7948,
+          36.13559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 221999,
+        "Institution": "Vanderbilt University",
+        "City location of institution (2018-19)": "Nashville",
+        "State abbreviation (2018-19)": "TN",
+        "ZIP code (2018-19)": 37240,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "13,431",
+        "Timing": "canceled until March 30, then online",
+        "Notes": "",
+        "Documentation": "https://www.vanderbilt.edu/coronavirus/2020/03/10/mar-9-2020-classes-suspended/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8034,
+          36.14659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 227757,
+        "Institution": "Rice University",
+        "City location of institution (2018-19)": "Houston",
+        "State abbreviation (2018-19)": "TX",
+        "ZIP code (2018-19)": "77005-1827",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "7,362",
+        "Timing": "March 9-13, 2020",
+        "Notes": "",
+        "Documentation": "https://abc13.com/education/rice-cancels-classes-amidst-covid-19-fears/5995933/; https://www.chron.com/news/houston-texas/houston/article/Novel-coronavirus-prompts-Rice-University-to-15115459.php?cmpid=hpctp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.402,
+          29.7179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 230852,
+        "Institution": "Champlain College",
+        "City location of institution (2018-19)": "Burlington",
+        "State abbreviation (2018-19)": "VT",
+        "ZIP code (2018-19)": 5401,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "6,266",
+        "Timing": "spring break extended through March 20; online from March 23. Announcement on April 6.",
+        "Notes": "",
+        "Documentation": "https://view.champlain.edu/march-11-covid-19-update/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2027,
+          44.47329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 230959,
+        "Institution": "Middlebury College",
+        "City location of institution (2018-19)": "Middlebury",
+        "State abbreviation (2018-19)": "VT",
+        "ZIP code (2018-19)": 5753,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,776",
+        "Timing": "Extending spring break, online by end of March",
+        "Notes": "",
+        "Documentation": "https://www.wcax.com/content/news/Middlebury-College-to-send-student-home-early-close-campus-568668531.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1761,
+          44.00912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 231174,
+        "Institution": "University of Vermont",
+        "City location of institution (2018-19)": "Burlington",
+        "State abbreviation (2018-19)": "VT",
+        "ZIP code (2018-19)": "05405-0160",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "15,629",
+        "Timing": "canceled classes March 16-17; online March 18 on",
+        "Notes": "",
+        "Documentation": "https://www.uvm.edu/uvmnews/news/3/11/20-message-president-garimella-uvm-community-covid-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1966,
+          44.47733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 234076,
+        "Institution": "University of Virginia-Main Campus",
+        "City location of institution (2018-19)": "Charlottesville",
+        "State abbreviation (2018-19)": "VA",
+        "ZIP code (2018-19)": "22903-2628",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "28,244",
+        "Timing": "online classes start March 19; assess April 5",
+        "Notes": "\"University events with more than 100 people are prohibited for the foreseeable future and should be postponed, cancelled, or offered virtually.\"",
+        "Documentation": "https://news.virginia.edu/content/university-moves-all-courses-online-urges-students-return-home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5034,
+          38.03567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 234669,
+        "Institution": "Bellevue College",
+        "City location of institution (2018-19)": "Bellevue",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98007-6484",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "20,125",
+        "Timing": "March 5-27, 2020",
+        "Notes": "https://www.seattletimes.com/seattle-news/university-of-washington-suspends-in-person-classes-in-response-to-coronavirus/ and https://www.bellevuecollege.edu/publicsafety/flu/",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15,
+          47.58401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 234696,
+        "Institution": "Bellingham Technical College",
+        "City location of institution (2018-19)": "Bellingham",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98225-1599",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,574",
+        "Timing": "website not updated yet",
+        "Notes": "https://www.seattletimes.com/seattle-news/university-of-washington-suspends-in-person-classes-in-response-to-coronavirus/",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.512,
+          48.76619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 235149,
+        "Institution": "Everett Community College",
+        "City location of institution (2018-19)": "Everett",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": 98201,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "14,451",
+        "Timing": "March 9-",
+        "Notes": "near Seattle",
+        "Documentation": "http://www.everettcc.edu/administration/cwt-security/security/emergency-management/resources/covid-19-novel-coronavirus; https://www.heraldnet.com/news/evcc-to-go-online-with-classes-in-response-to-coronavirus/; https://www.washingtonpost.com/education/2020/03/05/college-closes-others-brace-coronavirus-impact-campus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.205,
+          48.00663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 235699,
+        "Institution": "Lake Washington Institute of Technology",
+        "City location of institution (2018-19)": "Kirkland",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98034-8506",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "5,154",
+        "Timing": "through March 20, 2020",
+        "Notes": "students visited infected senior center; professor tested positive",
+        "Documentation": "https://www.nytimes.com/2020/03/06/us/coronavirus-college-campus-closings.html; https://www.lwtech.edu/news/coronavirus-covid-19-information-and-resources/; https://q13fox.com/2020/03/04/lake-washington-institute-of-technology-closed-through-weekend-after-faculty-member-tests-positive-for-covid-19/; https://www.washingtonpost.com/education/2020/03/05/college-closes-others-brace-coronavirus-impact-campus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.167,
+          47.70508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236072,
+        "Institution": "Seattle Colleges (N Seattle CC, Seattle Central CC, and South Seattle CC)",
+        "City location of institution (2018-19)": "Seattle",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98103-3599",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "9,911",
+        "Timing": "",
+        "Notes": "http://www.seattlecolleges.edu/ \"Classes are canceled on Monday, March 9, and alternate modes of instruction begin March 10 through the end of winter quarter. Campus offices and services remain open.\"",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334,
+          47.69841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236230,
+        "Institution": "Pacific Lutheran",
+        "City location of institution (2018-19)": "Tacoma",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98447-0003",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "3,337",
+        "Timing": "Canceled March 9; online March 10-30",
+        "Notes": "",
+        "Documentation": "https://www.plu.edu/campus-safety/system-alerts/2020/03/07/coronavirus-update-transition-to-distance-learning/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44,
+          47.14516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236328,
+        "Institution": "University of Puget Sound",
+        "City location of institution (2018-19)": "Tacoma",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": 98416,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "2,850",
+        "Timing": "March 9-24",
+        "Notes": "classes canceled through March 24, 2020. \"Afterwards, Faculty members will be asked to develop alternative means of instruction delivery and will reschedule exams. To the extent that alternative delivery is not immediately available, a plan for making up the classwork will be developed.\"",
+        "Documentation": "https://www.newhaven.edu/coronavirus-info.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479,
+          47.26308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236577,
+        "Institution": "Seattle Pacific University",
+        "City location of institution (2018-19)": "Seattle",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98119-1997",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,201",
+        "Timing": "March 9, 2020-",
+        "Notes": "",
+        "Documentation": "https://spu.edu/administration/health-services/hs-news/2020/COVID-19; https://mailchi.mp/spu.edu/update-on-spus-response-to-coronavirus-122537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.362,
+          47.65021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236595,
+        "Institution": "Seattle University",
+        "City location of institution (2018-19)": "Seattle",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98122-4340",
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "8,343",
+        "Timing": "March 9-20, 2020",
+        "Notes": "",
+        "Documentation": "https://www.seattleu.edu/coronavirus/; https://www.nytimes.com/2020/03/06/us/coronavirus-college-campus-closings.html; https://www.thestranger.com/slog/2020/03/06/43066686/seattle-university-cancels-in-person-classes-in-light-of-coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319,
+          47.60886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236939,
+        "Institution": "Washington State University Everett",
+        "City location of institution (2018-19)": "Pullman",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "99164-5910",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "34,356",
+        "Timing": "March 9-13, 2020",
+        "Notes": "\"WSU Everett will transition its in-person classes and exams to an online format\"",
+        "Documentation": "https://wsu.edu/covid-19/2020/03/08/wsu-everett-moves-to-online-classes-through-march-13/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.158,
+          46.73045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 236948,
+        "Institution": "University of Washington - all campuses",
+        "City location of institution (2018-19)": "Seattle",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98195-4550",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "55,508",
+        "Timing": "March 9-20, 2020",
+        "Notes": "Seattle as outbreak center. Campuses: Seattle, Tacoma, Bothell.\"The University of Washington, with 50,000 students on three campuses across the Seattle region, was apparently the first large college in the United States to make the shift entirely to online classes amid virus concerns.\" (NYTimes)",
+        "Documentation": "https://www.nytimes.com/2020/03/06/us/coronavirus-college-campus-closings.html; https://www.washington.edu/coronavirus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305,
+          47.65538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 237011,
+        "Institution": "Western Washington University",
+        "City location of institution (2018-19)": "Bellingham",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98225-9008",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "17,782",
+        "Timing": "classes canceled March 13-20; \"We plan to resume classes after Spring Break on March 31, pending any further guidance from the Health Department.\"",
+        "Notes": "",
+        "Documentation": "https://www.wwu.edu/coronavirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.486,
+          48.73781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 240444,
+        "Institution": "University of Wisconsin-Madison",
+        "City location of institution (2018-19)": "Madison",
+        "State abbreviation (2018-19)": "WI",
+        "ZIP code (2018-19)": "53706-1380",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "46,827",
+        "Timing": "online March 23-April 10; decision to come for beyond that",
+        "Notes": "",
+        "Documentation": "https://covid19.wisc.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4041,
+          43.07541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 240453,
+        "Institution": "University of Wisconsin-Milwaukee",
+        "City location of institution (2018-19)": "Milwaukee",
+        "State abbreviation (2018-19)": "WI",
+        "ZIP code (2018-19)": 53211,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "28,921",
+        "Timing": "Spring break extended March 15-29; online after that",
+        "Notes": "",
+        "Documentation": "https://uwm.edu/coronavirus/possible-covid-19-case-and-spring-break-extended-mar-10-2020/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8805,
+          43.07685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 243744,
+        "Institution": "Stanford University",
+        "City location of institution (2018-19)": "Stanford",
+        "State abbreviation (2018-19)": "CA",
+        "ZIP code (2018-19)": 94305,
+        "Sector of institution (2018-19)": "Private not-for-profit, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "20,946",
+        "Timing": "",
+        "Notes": "\"In-person classes will be moved to an online format for the last two weeks of the winter quarter\"",
+        "Documentation": "https://news.stanford.edu/2020/03/06/letter-provost-drell-covid-19-updates-online-classes-admit-weekend/?fbclid=IwAR2mlLp89qk4iNdgVuphMOp4bsyvjrC4yW6vESfoe9hFrwbKZe3LHdrmaCk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.167,
+          37.42943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 262129,
+        "Institution": "New College of Florida",
+        "City location of institution (2018-19)": "Sarasota",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "34243-2109",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 896,
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5586,
+          27.38493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 417248,
+        "Institution": "Howell Cheney THS/CT Aero Tech School",
+        "City location of institution (2018-19)": "Hartford",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6114,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": 60,
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6526,
+          41.73508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 417275,
+        "Institution": "Platt Technical High School/Stratford Aviation",
+        "City location of institution (2018-19)": "Milford",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6461,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": 37,
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0464,
+          41.24975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 433660,
+        "Institution": "Florida Gulf Coast University",
+        "City location of institution (2018-19)": "Fort Myers",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "33965-6565",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "16,878",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7726,
+          26.46364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 439190,
+        "Institution": "Cascadia College (same campus as UW Bothell)",
+        "City location of institution (2018-19)": "Bothell",
+        "State abbreviation (2018-19)": "WA",
+        "ZIP code (2018-19)": "98011-8205",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "4,581",
+        "Timing": "through winter quarter (3/20)",
+        "Notes": "https://www.seattletimes.com/seattle-news/university-of-washington-suspends-in-person-classes-in-response-to-coronavirus/ and http://www.cascadia.edu/services/emergency/coronavirus.aspx",
+        "Documentation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.192,
+          47.76092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 456959,
+        "Institution": "University of Minnesota-Rochester",
+        "City location of institution (2018-19)": "Rochester",
+        "State abbreviation (2018-19)": "MN",
+        "ZIP code (2018-19)": 55904,
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": 479,
+        "Timing": "Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
+        "Notes": "",
+        "Documentation": "https://drive.google.com/file/d/1_ph5nt6DcL1bds0ojWaojg5c6vgacGco/view; https://safe-campus.umn.edu/public-health-alerts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4635,
+          44.02234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 460604,
+        "Institution": "Stratford School of Aviation Maintenance Technicians",
+        "City location of institution (2018-19)": "Stratford",
+        "State abbreviation (2018-19)": "CT",
+        "ZIP code (2018-19)": 6615,
+        "Sector of institution (2018-19)": "Public, 2-year",
+        "12 month unduplicated headcount (2017-18)": "",
+        "Timing": "March 23 through at least Sunday, April 5",
+        "Notes": "",
+        "Documentation": "https://www.wtnh.com/news/health/coronavirus/the-university-of-new-haven-has-cancels-classes-requires-students-to-vacate-residents-halls-in-response-to-coronavirus-spread-concerns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1308,
+          41.16124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitID (US Only)": 482936,
+        "Institution": "Florida Polytechnic University",
+        "City location of institution (2018-19)": "Lakeland",
+        "State abbreviation (2018-19)": "FL",
+        "ZIP code (2018-19)": "33805-8531",
+        "Sector of institution (2018-19)": "Public, 4-year or above",
+        "12 month unduplicated headcount (2017-18)": "1,519",
+        "Timing": "heading online asap",
+        "Notes": "",
+        "Documentation": "https://www.flbog.edu/2020/03/11/state-university-system-statement-on-covid-19/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846,
+          28.15015
+        ]
+      }
+    }
+  ]
+}
