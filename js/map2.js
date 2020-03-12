@@ -66,7 +66,7 @@ $.getJSON("data/data.geojson",function(data){
         
         layer.bindPopup("<b>"+props.Institution+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.State+
+            props.'City location of institution (2018-19)'+", "+props.State+
             "<br><a href="+props.Documentation+">Read More</a>"+      
 		        "</dl>");
 	
@@ -85,7 +85,7 @@ legend.onAdd = function (map) {
 
     var div = L.DomUtil.create('div', 'info legend');
     //this is the title for the legend
-    div.innerHTML += "<b>"+ 'Sector'+ "</b>"+ "<br>";
+    div.innerHTML += "<b>"+ 'Closed Institutions'+ "</b>"+ "<br>";
     
     //type is the content of the Sector field, labels is what you want the label on the legend to actually say
     //there need to be the same number of types as labels and listed in the same order
